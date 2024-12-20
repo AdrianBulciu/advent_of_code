@@ -59,7 +59,7 @@ while (isset($leftListKeys[$leftIndex])) {
 	}
 }
 
-echo $result . PHP_EOL; // 1666427
+echo $result . PHP_EOL;
 
 /*
 	PART TWO
